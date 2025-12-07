@@ -1,4 +1,4 @@
-E-Commerce Sales Analysis – SQL Project
+### E-Commerce Sales Analysis – SQL Project
 
 Project Overview
 
